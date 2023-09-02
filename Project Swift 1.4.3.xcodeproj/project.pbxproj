@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		132502042AA3A4A300C29532 /* Project Swift 1.4.3.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Project Swift 1.4.3.entitlements"; sourceTree = "<group>"; };
-		13FDF6C6282AFAD100FBE8E4 /* Project Swift 1.4.3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Project Swift 1.4.3"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13FDF6C6282AFAD100FBE8E4 /* Trainee-project-Am-I-good-pet-owner-0.2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Trainee-project-Am-I-good-pet-owner-0.2"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13FDF6C9282AFAD100FBE8E4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -50,7 +50,7 @@
 		13FDF6C7282AFAD100FBE8E4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13FDF6C6282AFAD100FBE8E4 /* Project Swift 1.4.3 */,
+				13FDF6C6282AFAD100FBE8E4 /* Trainee-project-Am-I-good-pet-owner-0.2 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		13FDF6C5282AFAD100FBE8E4 /* Project Swift 1.4.3 */ = {
+		13FDF6C5282AFAD100FBE8E4 /* Trainee-project-Am-I-good-pet-owner-0.2 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13FDF6CD282AFAD100FBE8E4 /* Build configuration list for PBXNativeTarget "Project Swift 1.4.3" */;
+			buildConfigurationList = 13FDF6CD282AFAD100FBE8E4 /* Build configuration list for PBXNativeTarget "Trainee-project-Am-I-good-pet-owner-0.2" */;
 			buildPhases = (
 				13FDF6C2282AFAD100FBE8E4 /* Sources */,
 				13FDF6C3282AFAD100FBE8E4 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = "Project Swift 1.4.3";
+			name = "Trainee-project-Am-I-good-pet-owner-0.2";
 			productName = "Project Swift 1.4.3";
-			productReference = 13FDF6C6282AFAD100FBE8E4 /* Project Swift 1.4.3 */;
+			productReference = 13FDF6C6282AFAD100FBE8E4 /* Trainee-project-Am-I-good-pet-owner-0.2 */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13FDF6C5282AFAD100FBE8E4 /* Project Swift 1.4.3 */,
+				13FDF6C5282AFAD100FBE8E4 /* Trainee-project-Am-I-good-pet-owner-0.2 */,
 			);
 		};
 /* End PBXProject section */
@@ -278,7 +278,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13FDF6CD282AFAD100FBE8E4 /* Build configuration list for PBXNativeTarget "Project Swift 1.4.3" */ = {
+		13FDF6CD282AFAD100FBE8E4 /* Build configuration list for PBXNativeTarget "Trainee-project-Am-I-good-pet-owner-0.2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13FDF6CE282AFAD100FBE8E4 /* Debug */,
